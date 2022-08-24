@@ -1,0 +1,71 @@
+
+body {
+  background-image: url(sfondo.png.jpg);
+  background-size: cover;
+}
+
+.container  {
+  width: 1000px;
+  margin: auto;
+  margin-top: 120px;
+  text-align: center;
+}
+
+.logoimg {
+  width: 250px
+}
+
+.logo {
+  font-size: 40px;
+  color: lime;
+}
+
+.tasti{
+  background-color: lime;
+  padding: 0.7rem;
+}
+
+.Elenchi{
+  text-align: left;
+}
+
+.monopattino {
+  font-size: 26px;
+  color: white;
+}
+
+.indirizzo {
+  font-size: 20px;
+  color: white;
+}
+
+.carica {
+  font-size: 20px;
+  color: white;
+}
+
+.containerMonopattino {
+  margin-top:1rem;
+  line-height: 1.7rem;
+}
+
+.batteria {
+  height: 2.3rem;
+  border-radius: 0.4rem;
+  max-width: 70%;
+}
+
+.carico{
+  background-color: green;
+  width: 100%;
+}
+
+.medio {
+  background-color: yellow;
+  width: 40%;
+}
+
+.scarico {
+  background-color: red;
+  width: 20%;
+}
